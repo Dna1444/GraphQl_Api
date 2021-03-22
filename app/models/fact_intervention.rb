@@ -1,0 +1,3 @@
+class FactIntervention < DwhRecord
+ 
+end
